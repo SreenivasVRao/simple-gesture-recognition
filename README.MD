@@ -1,4 +1,4 @@
-#Simple Hand Recognition
+#Simple Hand Gesture Recognition
 
 To build your own gesture dictionary, run
 
